@@ -1,6 +1,9 @@
 import java.math.BigDecimal;
 import java.math.RoundingMode;
 
+// COMMENTS ARE IN GREEK.
+
+
 // όπου αναφέρεται το this.list πρόκειται για την λίστα την οποία καλείται η συγκεκριμένη μέθοδος.
 
 	class PointData {
